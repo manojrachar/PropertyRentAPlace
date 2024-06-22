@@ -1,0 +1,16 @@
+com\property\entity\Login.class
+com\property\entity\ResponsePage.class
+com\property\entity\Owner.class
+com\property\service\PropertyService.class
+com\property\dao\PropertyDAO.class
+com\property\controller\PropertyController.class
+com\property\PropertyServiceApplication.class
+com\property\entity\User.class
+com\property\service\OwnerService.class
+com\property\AdditionalResourceWebConfiguration.class
+com\property\dao\OwnerDAO.class
+com\property\dao\ReservedPropertyDAO.class
+com\property\entity\Messages.class
+com\property\entity\Property.class
+com\property\entity\ReservedProperty.class
+com\property\controller\OwnerController.class
